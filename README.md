@@ -1,5 +1,6 @@
 # Rainfall-Prediction
-Objectives
+#Objectives
+
 1.Understand time series data analysis.
 
 2.Use ARIMA and Prophet to forecast weather parameters.
